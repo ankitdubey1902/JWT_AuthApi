@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\models\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\models\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|e:\\ntsa1473\\new folder\\asp.net core api\\jwt_authapi\\jwt_authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0411F59-E0BE-4EDB-AF45-A0A06793DA75}|JWT_AuthApi\\JWT_AuthApi.csproj|solutionrelative:jwt_authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Models\\Auth\\User.cs",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\Models\\Auth\\User.cs",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Models\\Auth\\User.cs",
+              "RelativeToolTip": "JWT_AuthApi\\Models\\Auth\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:20:49.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\Services\\JwtService.cs",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "JWT_AuthApi\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:10:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\Program.cs",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Program.cs",
+              "RelativeToolTip": "JWT_AuthApi\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:24:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\Controllers\\SampleController.cs",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "JWT_AuthApi\\Controllers\\SampleController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:19:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_AuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:02:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_AuthApi\\appsettings.json",
+              "ToolTip": "E:\\NTSA1473\\New folder\\Asp.Net Core API\\JWT_AuthApi\\JWT_AuthApi\\appsettings.json",
+              "RelativeToolTip": "JWT_AuthApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T08:14:21.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
